@@ -1,0 +1,8 @@
+1-boutifleur-20-4-15-herbe
+2-botigeon-40-5-32-herbe
+3-barigrain-65-6-0-herbe
+4-ritan-15-3-20-normal
+5-broritan-28-5-0-normal
+6-scatut-20-5-35-tenebre
+7-sbrut-50-6-0-tenebre
+id-name-hpbase-hpbylevel-type-attbase-attbylevel-defbase-defbylevel-speedbase-speedbylevel-<attpool>
